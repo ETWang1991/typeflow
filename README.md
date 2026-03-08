@@ -23,7 +23,9 @@ It works whether you type:
 - a full sentence  
 
 The translation appears instantly.
-
+<p align="center">
+  <img src="assets/screenshot-translate.png" width="33%" />
+</p>
 ![Translate as you type](assets/screenshot-translate.png)
 
 ---
