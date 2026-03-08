@@ -12,6 +12,15 @@ Just type — and see translation instantly.
 
 ## ✨ Features
 
+<table>
+<tr>
+<td width="40%">
+
+<img src="assets/screenshot-translate.png" width="100%">
+
+</td>
+<td width="60%">
+
 ### Translate as you type
 
 TypeFlow continuously translates while you type.
@@ -23,12 +32,17 @@ It works whether you type:
 - a full sentence  
 
 The translation appears instantly.
-<p align="center">
-  <img src="assets/screenshot-translate.png" width="33%" />
-</p>
-![Translate as you type](assets/screenshot-translate.png)
 
----
+</td>
+</tr>
+
+<tr>
+<td width="40%">
+
+<img src="assets/screenshot-refine.png" width="100%">
+
+</td>
+<td width="60%">
 
 ### Sentence refinement
 
@@ -36,15 +50,22 @@ Longer sentences automatically become clearer and more natural.
 
 TypeFlow refines translation as your sentence grows.
 
-![Sentence refinement](assets/screenshot-refine.png)
-
 Features include:
 
 - build sentences from translated words  
 - refine phrasing with a single tap  
 - punctuation-aware translation  
 
----
+</td>
+</tr>
+
+<tr>
+<td width="40%">
+
+<img src="assets/screenshot-typing.png" width="100%">
+
+</td>
+<td width="60%">
 
 ### Type your way
 
@@ -52,14 +73,15 @@ TypeFlow adapts to how you write.
 
 You can type word-by-word or full sentences.
 
-![Flexible typing](assets/screenshot-typing.png)
-
 Supported styles:
 
 - word-by-word translation  
 - full sentence translation  
 - flexible input flow  
 
+</td>
+</tr>
+</table>
 ---
 
 ## 🔒 Fully Private
