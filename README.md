@@ -133,27 +133,6 @@ If you enjoy the idea of translating directly inside your keyboard, your support
 
 ---
 
-## 📬 Feedback
-
-Suggestions and ideas are welcome.
-
-See:
-
-[FEEDBACK.md](FEEDBACK.md)
-
----
-
-## 📄 License
-
-See the [LICENSE](LICENSE) file for details.
-
----
-
-## Preview
-
-![Keyboard Preview](assets/keyboard-preview.png)
-
----
 
 ## App Icon
 
