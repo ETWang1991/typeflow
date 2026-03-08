@@ -60,7 +60,7 @@ You may stop using the app at any time and remove the app from your device. Data
 If you have privacy questions about TypeFlow, you may contact:
 
 - ET Wang
-- GitHub: https://github.com/ETWang1991/SuperKeyboard
+- GitHub: https://github.com/ETWang1991/typeflow
 
 ## 中文
 
@@ -120,4 +120,4 @@ App 可能使用 Apple 提供的系统服务，包括：
 如果你对 TypeFlow 的隐私政策有疑问，可以通过以下方式联系：
 
 - ET Wang
-- GitHub: https://github.com/ETWang1991/SuperKeyboard
+- GitHub: https://github.com/ETWang1991/typeflow
