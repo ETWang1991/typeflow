@@ -8,6 +8,7 @@ No switching apps.
 No copy & paste.  
 Just type — and see translation instantly.
 
+
 ---
 
 ## ✨ Features
@@ -82,7 +83,6 @@ Features include:
 </td>
 </tr>
 </table>
----
 
 ## 🔒 Fully Private
 
@@ -155,9 +155,3 @@ TypeFlow is built by an independent developer.
 
 If you enjoy the idea of translating directly inside your keyboard, your support helps improve the project.
 
----
-
-
-## App Icon
-
-![TypeFlow Icon](assets/icon.png)
