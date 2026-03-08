@@ -44,17 +44,17 @@ The translation appears instantly.
 </td>
 <td width="60%">
 
-### Sentence refinement
+### Type your way
 
-Longer sentences automatically become clearer and more natural.
+TypeFlow adapts to how you write.
 
-TypeFlow refines translation as your sentence grows.
+You can type word-by-word or full sentences.
 
-Features include:
+Supported styles:
 
-- build sentences from translated words  
-- refine phrasing with a single tap  
-- punctuation-aware translation  
+- word-by-word translation  
+- full sentence translation  
+- flexible input flow  
 
 </td>
 </tr>
@@ -67,17 +67,17 @@ Features include:
 </td>
 <td width="60%">
 
-### Type your way
+### Sentence refinement
 
-TypeFlow adapts to how you write.
+Longer sentences automatically become clearer and more natural.
 
-You can type word-by-word or full sentences.
+TypeFlow refines translation as your sentence grows.
 
-Supported styles:
+Features include:
 
-- word-by-word translation  
-- full sentence translation  
-- flexible input flow  
+- build sentences from translated words  
+- refine phrasing with a single tap  
+- punctuation-aware translation  
 
 </td>
 </tr>
