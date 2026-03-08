@@ -14,12 +14,12 @@ Just type — and see translation instantly.
 
 <table>
 <tr>
-<td width="30%">
+<td width="40%">
 
 <img src="assets/screenshot-translate.png" width="100%">
 
 </td>
-<td width="70%">
+<td width="60%">
 
 ### Translate as you type
 
@@ -37,12 +37,12 @@ The translation appears instantly.
 </tr>
 
 <tr>
-<td width="30%">
+<td width="40%">
 
 <img src="assets/screenshot-refine.png" width="100%">
 
 </td>
-<td width="70%">
+<td width="60%">
 
 ### Sentence refinement
 
@@ -60,12 +60,12 @@ Features include:
 </tr>
 
 <tr>
-<td width="30%">
+<td width="40%">
 
 <img src="assets/screenshot-typing.png" width="100%">
 
 </td>
-<td width="70%">
+<td width="60%">
 
 ### Type your way
 
